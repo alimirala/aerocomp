@@ -6,7 +6,7 @@ Welcome to the official support page for **AeroComp** — the flight computer ap
 
 ## 📬 Contact Us  
 Have a question, bug report, or feature request?  
-**Email:** [alimirala@gmail.com](mailto:alimirala@gmail.com)
+**Email:** [alimirala@yahoo.com](mailto:alimirala@yahoo.com)
 
 ---
 
